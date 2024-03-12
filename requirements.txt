@@ -1,7 +1,8 @@
 openai
-langchain
+langchain==0.0.284
 streamlit
 python-dotenv
 PyPDF2
 google-generativeai
+
 -e .
