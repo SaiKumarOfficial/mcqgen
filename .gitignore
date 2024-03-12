@@ -1,3 +1,5 @@
 env
 mcqgenrator.egg-info
 experiment/.env
+logs/*
+.env
