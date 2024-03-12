@@ -1,1 +1,1 @@
-# LLM Generative AI Project using OpenAI & LangChain
+# LLM Generative AI Project using PaLM & LangChain
